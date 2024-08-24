@@ -26,7 +26,7 @@ public class hello {
             System.out.println("n is not prime number"); 
           }
 
-
+sc.close();
 
     }
 }
