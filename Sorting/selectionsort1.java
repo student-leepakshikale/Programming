@@ -10,7 +10,7 @@ public class selectionsort1 {
 
             int arr[]={7,8,3,1,2};  
             
-            //bubble sort
+            //selection  sort
             for (int i=0; i<arr.length-1; i++){
                 int smallest=i;
                 for (int j=i+1; j<arr.length;j++){
